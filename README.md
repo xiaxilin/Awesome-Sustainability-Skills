@@ -16,10 +16,10 @@ While the recent trend of "vibe coding" suggests AI can generate scripts or apps
 The vision of `Awesome Sustainability Skills` is to build an armory specifically designed for **AI Agents**. We are driving the transition from traditional, human-readable `README.md` documentation to structured, machine-readable `SKILL.md` instructions.
 
 Our goal is to empower any Large Language Model (LLM) or Agent to:
-1. **Autonomously discover** the right open-source tools for specific sustainability problems.
-2. **Accurately understand** tool boundaries, parameters, and operational guardrails.
-3. **Reliably execute** complex scientific computations and self-correct errors on the fly.
-4. **Output** structured, reusable data.
+1. **Discover** the right open-source tools for specific sustainability problems.
+2. **Understand** tool boundaries, parameters, and operational guardrails.
+3. **Execute** complex scientific computations and self-correct errors on the fly.
+4. **Output** structured and reusable data.
 
 ## 🚧 Current Status: Work in Progress
 
